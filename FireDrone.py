@@ -5,7 +5,7 @@ Created on Sat Nov 10 16:36:44 2018
 @author: Alan Jerry Pan, CPA, CSC
 @affiliation: Shanghai Jiaotong University
 
-Program framework that creates an infinite number of abstract "drones" that can relocate itself on a two-dimensional plane and a naive artificial intelligence that simulates goal-seeking to destinate to a fire.
+Program framework that can create an infinite number of abstract "drones" that can relocate itself on a two-dimensional plane and a naive artificial intelligence that simulates goal-seeking to destinate to a fire.
 
 Suggested citation as computer software for reference:
 Pan, Alan J. (2018). Fire Drone [Computer software]. Github repository <https://github.com/alanjpan/Fire-Drone>
