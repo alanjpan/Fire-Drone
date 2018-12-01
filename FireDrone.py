@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 10 16:36:44 2018
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program framework that can create an infinite number of abstract "drones" that can relocate itself on a two-dimensional plane with a naive artificial intelligence that simulates goal-seeking to destinate to a fire.
