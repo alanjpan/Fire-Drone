@@ -1,7 +1,7 @@
 # Fire-Drone
 program framework for drone creation with naive artificial intelligence to put out fires (alt. goal seeking)
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program framework that can create an infinite number of abstract "drones" that can relocate itself on a two-dimensional plane with a naive artificial intelligence that simulates goal-seeking to destinate to a fire.
